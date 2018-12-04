@@ -12,9 +12,9 @@
             "details": ""
           },
           "Commission": {
-            "rate": "1.0000000000",
-            "max_rate": "1.0000000000",
-            "max_change_rate": "1.0000000000"
+            "rate": "0.1000000000",
+            "max_rate": "0.2000000000",
+            "max_change_rate": "0.0100000000"
           },
           "delegator_address": "cosmos1xn7g7emmfrtll6jz5lc9r5gmyytttw7k29xvkf",
           "validator_address": "cosmosvaloper1xn7g7emmfrtll6jz5lc9r5gmyytttw7k03je66",
